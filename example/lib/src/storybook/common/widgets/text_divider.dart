@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/moon_design.dart';
+import 'package:moon_flutter/moon_flutter.dart';
 
 class TextDivider extends StatelessWidget {
   final String text;

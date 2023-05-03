@@ -1,8 +1,8 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/chip/chip_colors.dart';
-import 'package:moon_design/src/theme/chip/chip_sizes.dart';
+import 'package:moon_flutter/src/theme/chip/chip_colors.dart';
+import 'package:moon_flutter/src/theme/chip/chip_sizes.dart';
 
 @immutable
 class MoonChipTheme extends ThemeExtension<MoonChipTheme> with DiagnosticableTreeMixin {

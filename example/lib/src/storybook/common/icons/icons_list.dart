@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:moon_design/moon_design.dart';
+import 'package:moon_flutter/moon_flutter.dart';
 
 final List<IconData> iconsList = [
   MoonIcons.about_16,

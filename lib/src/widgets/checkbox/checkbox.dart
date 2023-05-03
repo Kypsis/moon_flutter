@@ -1,15 +1,15 @@
 import 'package:figma_squircle/figma_squircle.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/borders.dart';
-import 'package:moon_design/src/theme/colors.dart';
-import 'package:moon_design/src/theme/effects/focus_effects.dart';
-import 'package:moon_design/src/theme/opacity.dart';
-import 'package:moon_design/src/theme/theme.dart';
-import 'package:moon_design/src/utils/extensions.dart';
-import 'package:moon_design/src/utils/touch_target_padding.dart';
-import 'package:moon_design/src/widgets/checkbox/checkbox_painter.dart';
-import 'package:moon_design/src/widgets/common/effects/focus_effect.dart';
+import 'package:moon_flutter/src/theme/borders.dart';
+import 'package:moon_flutter/src/theme/colors.dart';
+import 'package:moon_flutter/src/theme/effects/focus_effects.dart';
+import 'package:moon_flutter/src/theme/opacity.dart';
+import 'package:moon_flutter/src/theme/theme.dart';
+import 'package:moon_flutter/src/utils/extensions.dart';
+import 'package:moon_flutter/src/utils/touch_target_padding.dart';
+import 'package:moon_flutter/src/widgets/checkbox/checkbox_painter.dart';
+import 'package:moon_flutter/src/widgets/common/effects/focus_effect.dart';
 
 class MoonCheckbox extends StatefulWidget {
   /// {@macro flutter.widgets.Focus.autofocus}

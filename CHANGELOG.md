@@ -428,7 +428,7 @@
 
 * release-please config changes ([393ec4a](https://github.com/coingaming/moon_flutter/commit/393ec4a93f7be23fcd235e24cb1063c613ad55fd))
 
-## [0.1.3](https://github.com/coingaming/moon_flutter/compare/moon_design-v0.1.2...moon_design-v0.1.3) (2023-02-08)
+## [0.1.3](https://github.com/coingaming/moon_flutter/compare/moon_flutter-v0.1.2...moon_flutter-v0.1.3) (2023-02-08)
 
 
 ### Bug Fixes

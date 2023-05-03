@@ -1,8 +1,8 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/checkbox/checkbox_colors.dart';
-import 'package:moon_design/src/theme/checkbox/checkbox_properties.dart';
+import 'package:moon_flutter/src/theme/checkbox/checkbox_colors.dart';
+import 'package:moon_flutter/src/theme/checkbox/checkbox_properties.dart';
 
 @immutable
 class MoonCheckboxTheme extends ThemeExtension<MoonCheckboxTheme> with DiagnosticableTreeMixin {

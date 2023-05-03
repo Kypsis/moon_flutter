@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import 'package:moon_design/src/theme/colors.dart';
-import 'package:moon_design/src/theme/opacity.dart';
-import 'package:moon_design/src/theme/theme.dart';
-import 'package:moon_design/src/utils/extensions.dart';
-import 'package:moon_design/src/widgets/common/animated_icon_theme.dart';
+import 'package:moon_flutter/src/theme/colors.dart';
+import 'package:moon_flutter/src/theme/opacity.dart';
+import 'package:moon_flutter/src/theme/theme.dart';
+import 'package:moon_flutter/src/utils/extensions.dart';
+import 'package:moon_flutter/src/widgets/common/animated_icon_theme.dart';
 
 typedef MoonTextAreaErrorBuilder = Widget Function(BuildContext context, String? errorText);
 

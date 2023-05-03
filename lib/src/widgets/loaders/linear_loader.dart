@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/colors.dart';
-import 'package:moon_design/src/theme/loaders/linear_loader/linear_loader_size_properties.dart';
-import 'package:moon_design/src/theme/theme.dart';
-import 'package:moon_design/src/widgets/common/progress_indicators/linear_progress_indicator.dart';
+import 'package:moon_flutter/src/theme/colors.dart';
+import 'package:moon_flutter/src/theme/loaders/linear_loader/linear_loader_size_properties.dart';
+import 'package:moon_flutter/src/theme/theme.dart';
+import 'package:moon_flutter/src/widgets/common/progress_indicators/linear_progress_indicator.dart';
 
 enum MoonLinearLoaderSize {
   x6s,

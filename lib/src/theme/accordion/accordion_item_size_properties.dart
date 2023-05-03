@@ -3,8 +3,8 @@ import 'dart:ui';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/sizes.dart';
-import 'package:moon_design/src/theme/typography/text_styles.dart';
+import 'package:moon_flutter/src/theme/sizes.dart';
+import 'package:moon_flutter/src/theme/typography/text_styles.dart';
 
 @immutable
 class MoonAccordionItemSizeProperties extends ThemeExtension<MoonAccordionItemSizeProperties>

@@ -1,11 +1,11 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/avatar/avatar_size_properties.dart';
-import 'package:moon_design/src/theme/colors.dart';
-import 'package:moon_design/src/theme/theme.dart';
-import 'package:moon_design/src/utils/extensions.dart';
-import 'package:moon_design/src/widgets/avatar/avatar_clipper.dart';
+import 'package:moon_flutter/src/theme/avatar/avatar_size_properties.dart';
+import 'package:moon_flutter/src/theme/colors.dart';
+import 'package:moon_flutter/src/theme/theme.dart';
+import 'package:moon_flutter/src/utils/extensions.dart';
+import 'package:moon_flutter/src/widgets/avatar/avatar_clipper.dart';
 
 enum MoonAvatarSize {
   xs,

@@ -1,8 +1,8 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/alert/alert_colors.dart';
-import 'package:moon_design/src/theme/alert/alert_properties.dart';
+import 'package:moon_flutter/src/theme/alert/alert_colors.dart';
+import 'package:moon_flutter/src/theme/alert/alert_properties.dart';
 
 @immutable
 class MoonAlertTheme extends ThemeExtension<MoonAlertTheme> with DiagnosticableTreeMixin {

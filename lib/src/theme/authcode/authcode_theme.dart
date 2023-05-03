@@ -1,8 +1,8 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/authcode/authcode_colors.dart';
-import 'package:moon_design/src/theme/authcode/authcode_properties.dart';
+import 'package:moon_flutter/src/theme/authcode/authcode_colors.dart';
+import 'package:moon_flutter/src/theme/authcode/authcode_properties.dart';
 
 @immutable
 class MoonAuthCodeTheme extends ThemeExtension<MoonAuthCodeTheme> with DiagnosticableTreeMixin {

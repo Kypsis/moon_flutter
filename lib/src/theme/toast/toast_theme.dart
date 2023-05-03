@@ -1,9 +1,9 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/toast/toast_colors.dart';
-import 'package:moon_design/src/theme/toast/toast_properties.dart';
-import 'package:moon_design/src/theme/toast/toast_shadows.dart';
+import 'package:moon_flutter/src/theme/toast/toast_colors.dart';
+import 'package:moon_flutter/src/theme/toast/toast_properties.dart';
+import 'package:moon_flutter/src/theme/toast/toast_shadows.dart';
 
 @immutable
 class MoonToastTheme extends ThemeExtension<MoonToastTheme> with DiagnosticableTreeMixin {

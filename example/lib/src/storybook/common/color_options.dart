@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/moon_design.dart';
+import 'package:moon_flutter/moon_flutter.dart';
 import 'package:storybook_flutter/storybook_flutter.dart';
 
 // The below combination of "indexes" and colors in the colorTable() LUT is to bypass the stale closure that the knob

@@ -1,8 +1,8 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/button/button_colors.dart';
-import 'package:moon_design/src/theme/button/button_sizes.dart';
+import 'package:moon_flutter/src/theme/button/button_colors.dart';
+import 'package:moon_flutter/src/theme/button/button_sizes.dart';
 
 @immutable
 class MoonButtonTheme extends ThemeExtension<MoonButtonTheme> with DiagnosticableTreeMixin {

@@ -1,8 +1,8 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/progress/circular_progress/circular_progress_colors.dart';
-import 'package:moon_design/src/theme/progress/circular_progress/circular_progress_sizes.dart';
+import 'package:moon_flutter/src/theme/progress/circular_progress/circular_progress_colors.dart';
+import 'package:moon_flutter/src/theme/progress/circular_progress/circular_progress_sizes.dart';
 
 @immutable
 class MoonCircularProgressTheme extends ThemeExtension<MoonCircularProgressTheme> with DiagnosticableTreeMixin {

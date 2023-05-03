@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/colors.dart';
-import 'package:moon_design/src/theme/theme.dart';
-import 'package:moon_design/src/widgets/buttons/button.dart';
+import 'package:moon_flutter/src/theme/colors.dart';
+import 'package:moon_flutter/src/theme/theme.dart';
+import 'package:moon_flutter/src/widgets/buttons/button.dart';
 
 class MoonFilledButton extends StatelessWidget {
   /// {@macro flutter.widgets.Focus.autofocus}

@@ -1,7 +1,7 @@
 import 'package:flutter/widgets.dart';
 
-import 'package:moon_design/src/widgets/common/progress_indicators/base_progress.dart';
-import 'package:moon_design/src/widgets/common/progress_indicators/painters/circular_progress_indicator_painter.dart';
+import 'package:moon_flutter/src/widgets/common/progress_indicators/base_progress.dart';
+import 'package:moon_flutter/src/widgets/common/progress_indicators/painters/circular_progress_indicator_painter.dart';
 
 class MoonCircularProgressIndicator extends MoonBaseProgressIndicator {
   /// The width of the line used to draw the circle.

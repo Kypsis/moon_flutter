@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/accordion/accordion_item_size_properties.dart';
+import 'package:moon_flutter/src/theme/accordion/accordion_item_size_properties.dart';
 
 @immutable
 class MoonAccordionItemSizes extends ThemeExtension<MoonAccordionItemSizes> with DiagnosticableTreeMixin {

@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/loaders/circular_loader/circular_loader_size_properties.dart';
+import 'package:moon_flutter/src/theme/loaders/circular_loader/circular_loader_size_properties.dart';
 
 @immutable
 class MoonCircularLoaderSizes extends ThemeExtension<MoonCircularLoaderSizes> with DiagnosticableTreeMixin {

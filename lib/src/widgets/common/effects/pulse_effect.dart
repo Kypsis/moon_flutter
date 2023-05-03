@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/widgets/common/effects/painters/pulse_effect_painter.dart';
+import 'package:moon_flutter/src/widgets/common/effects/painters/pulse_effect_painter.dart';
 
 class MoonPulseEffect extends StatefulWidget {
   final bool show;

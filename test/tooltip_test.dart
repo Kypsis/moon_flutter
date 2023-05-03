@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:moon_design/src/widgets/buttons/filled_button.dart';
-import 'package:moon_design/src/widgets/tooltip/tooltip.dart';
+import 'package:moon_flutter/src/widgets/buttons/filled_button.dart';
+import 'package:moon_flutter/src/widgets/tooltip/tooltip.dart';
 
 void main() {
   const key = Key("tooltip_test");

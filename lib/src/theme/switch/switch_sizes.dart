@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/switch/switch_size_properties.dart';
+import 'package:moon_flutter/src/theme/switch/switch_size_properties.dart';
 
 @immutable
 class MoonSwitchSizes extends ThemeExtension<MoonSwitchSizes> with DiagnosticableTreeMixin {

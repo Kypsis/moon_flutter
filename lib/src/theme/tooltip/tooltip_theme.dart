@@ -1,9 +1,9 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/tooltip/tooltip_colors.dart';
-import 'package:moon_design/src/theme/tooltip/tooltip_properties.dart';
-import 'package:moon_design/src/theme/tooltip/tooltip_shadows.dart';
+import 'package:moon_flutter/src/theme/tooltip/tooltip_colors.dart';
+import 'package:moon_flutter/src/theme/tooltip/tooltip_properties.dart';
+import 'package:moon_flutter/src/theme/tooltip/tooltip_shadows.dart';
 
 @immutable
 class MoonTooltipTheme extends ThemeExtension<MoonTooltipTheme> with DiagnosticableTreeMixin {

@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/shadows.dart';
+import 'package:moon_flutter/src/theme/shadows.dart';
 
 @immutable
 class MoonAccordionItemShadows extends ThemeExtension<MoonAccordionItemShadows> with DiagnosticableTreeMixin {

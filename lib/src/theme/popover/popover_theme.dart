@@ -1,9 +1,9 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/popover/popover_colors.dart';
-import 'package:moon_design/src/theme/popover/popover_properties.dart';
-import 'package:moon_design/src/theme/popover/popover_shadows.dart';
+import 'package:moon_flutter/src/theme/popover/popover_colors.dart';
+import 'package:moon_flutter/src/theme/popover/popover_properties.dart';
+import 'package:moon_flutter/src/theme/popover/popover_shadows.dart';
 
 @immutable
 class MoonPopoverTheme extends ThemeExtension<MoonPopoverTheme> with DiagnosticableTreeMixin {

@@ -1,7 +1,7 @@
 import 'package:figma_squircle/figma_squircle.dart';
 import 'package:flutter/rendering.dart';
 
-import 'package:moon_design/src/widgets/avatar/avatar.dart';
+import 'package:moon_flutter/src/widgets/avatar/avatar.dart';
 
 class AvatarClipper extends CustomClipper<Path> {
   final bool showBadge;

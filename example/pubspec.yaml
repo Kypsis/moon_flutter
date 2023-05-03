@@ -9,7 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_svg: ^2.0.1
-  moon_design:
+  moon_flutter:
     path: ../
   package_info_plus: ^3.0.2
   sliver_tools: ^0.2.9

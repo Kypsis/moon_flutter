@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/radio/radio_colors.dart';
+import 'package:moon_flutter/src/theme/radio/radio_colors.dart';
 
 @immutable
 class MoonRadioTheme extends ThemeExtension<MoonRadioTheme> with DiagnosticableTreeMixin {

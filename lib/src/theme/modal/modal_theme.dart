@@ -1,8 +1,8 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/modal/modal_colors.dart';
-import 'package:moon_design/src/theme/modal/modal_properties.dart';
+import 'package:moon_flutter/src/theme/modal/modal_colors.dart';
+import 'package:moon_flutter/src/theme/modal/modal_properties.dart';
 
 @immutable
 class MoonModalTheme extends ThemeExtension<MoonModalTheme> with DiagnosticableTreeMixin {

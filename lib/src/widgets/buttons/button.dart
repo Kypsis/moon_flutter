@@ -1,14 +1,14 @@
 import 'package:figma_squircle/figma_squircle.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/borders.dart';
-import 'package:moon_design/src/theme/button/button_size_properties.dart';
-import 'package:moon_design/src/theme/colors.dart';
-import 'package:moon_design/src/theme/effects/hover_effects.dart';
-import 'package:moon_design/src/theme/theme.dart';
-import 'package:moon_design/src/utils/extensions.dart';
-import 'package:moon_design/src/widgets/common/animated_icon_theme.dart';
-import 'package:moon_design/src/widgets/common/base_control.dart';
+import 'package:moon_flutter/src/theme/borders.dart';
+import 'package:moon_flutter/src/theme/button/button_size_properties.dart';
+import 'package:moon_flutter/src/theme/colors.dart';
+import 'package:moon_flutter/src/theme/effects/hover_effects.dart';
+import 'package:moon_flutter/src/theme/theme.dart';
+import 'package:moon_flutter/src/utils/extensions.dart';
+import 'package:moon_flutter/src/widgets/common/animated_icon_theme.dart';
+import 'package:moon_flutter/src/widgets/common/base_control.dart';
 
 enum MoonButtonSize {
   xs,

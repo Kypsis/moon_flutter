@@ -1,13 +1,13 @@
 import 'package:figma_squircle/figma_squircle.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/borders.dart';
-import 'package:moon_design/src/theme/colors.dart';
-import 'package:moon_design/src/theme/sizes.dart';
-import 'package:moon_design/src/theme/theme.dart';
-import 'package:moon_design/src/theme/typography/text_styles.dart';
-import 'package:moon_design/src/utils/extensions.dart';
-import 'package:moon_design/src/widgets/common/animated_icon_theme.dart';
+import 'package:moon_flutter/src/theme/borders.dart';
+import 'package:moon_flutter/src/theme/colors.dart';
+import 'package:moon_flutter/src/theme/sizes.dart';
+import 'package:moon_flutter/src/theme/theme.dart';
+import 'package:moon_flutter/src/theme/typography/text_styles.dart';
+import 'package:moon_flutter/src/utils/extensions.dart';
+import 'package:moon_flutter/src/widgets/common/animated_icon_theme.dart';
 
 class MoonAlert extends StatefulWidget {
   /// Controls whether the alert is shown.

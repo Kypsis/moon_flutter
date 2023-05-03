@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/widgets/buttons/button.dart';
+import 'package:moon_flutter/src/widgets/buttons/button.dart';
 
 class MoonOutlinedButton extends StatelessWidget {
   /// {@macro flutter.widgets.Focus.autofocus}

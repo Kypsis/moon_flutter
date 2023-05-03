@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/loaders/linear_loader/linear_loader_size_properties.dart';
+import 'package:moon_flutter/src/theme/loaders/linear_loader/linear_loader_size_properties.dart';
 
 @immutable
 class MoonLinearLoaderSizes extends ThemeExtension<MoonLinearLoaderSizes> with DiagnosticableTreeMixin {

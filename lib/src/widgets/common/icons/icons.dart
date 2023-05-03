@@ -5,7 +5,7 @@ class MoonIcons {
   MoonIcons._();
 
   static const _kFontFam = "MoonIcons";
-  static const _kFontPkg = "moon_design";
+  static const _kFontPkg = "moon_flutter";
 
   static const IconData about_16 = IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData about_24 = IconData(0xe801, fontFamily: _kFontFam, fontPackage: _kFontPkg);

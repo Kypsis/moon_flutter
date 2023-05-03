@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/colors.dart';
-import 'package:moon_design/src/theme/theme.dart';
-import 'package:moon_design/src/widgets/alert/alert.dart';
-import 'package:moon_design/src/widgets/buttons/button.dart';
-import 'package:moon_design/src/widgets/common/icons/icons.dart';
-import 'package:moon_design/src/widgets/common/icons/moon_icon.dart';
+import 'package:moon_flutter/src/theme/colors.dart';
+import 'package:moon_flutter/src/theme/theme.dart';
+import 'package:moon_flutter/src/widgets/alert/alert.dart';
+import 'package:moon_flutter/src/widgets/buttons/button.dart';
+import 'package:moon_flutter/src/widgets/common/icons/icons.dart';
+import 'package:moon_flutter/src/widgets/common/icons/moon_icon.dart';
 
 class MoonOutlinedAlert extends StatelessWidget {
   /// Controls whether the alert is shown.

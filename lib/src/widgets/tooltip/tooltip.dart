@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-import 'package:moon_design/src/theme/borders.dart';
-import 'package:moon_design/src/theme/colors.dart';
-import 'package:moon_design/src/theme/shadows.dart';
-import 'package:moon_design/src/theme/theme.dart';
-import 'package:moon_design/src/theme/typography/text_styles.dart';
-import 'package:moon_design/src/widgets/tooltip/tooltip_shape.dart';
+import 'package:moon_flutter/src/theme/borders.dart';
+import 'package:moon_flutter/src/theme/colors.dart';
+import 'package:moon_flutter/src/theme/shadows.dart';
+import 'package:moon_flutter/src/theme/theme.dart';
+import 'package:moon_flutter/src/theme/typography/text_styles.dart';
+import 'package:moon_flutter/src/widgets/tooltip/tooltip_shape.dart';
 
 enum MoonTooltipPosition {
   top,

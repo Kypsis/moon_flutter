@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import 'package:moon_design/src/theme/colors.dart';
-import 'package:moon_design/src/theme/effects/focus_effects.dart';
-import 'package:moon_design/src/theme/opacity.dart';
-import 'package:moon_design/src/theme/shadows.dart';
-import 'package:moon_design/src/theme/switch/switch_size_properties.dart';
-import 'package:moon_design/src/theme/theme.dart';
-import 'package:moon_design/src/widgets/common/animated_icon_theme.dart';
-import 'package:moon_design/src/widgets/common/effects/focus_effect.dart';
+import 'package:moon_flutter/src/theme/colors.dart';
+import 'package:moon_flutter/src/theme/effects/focus_effects.dart';
+import 'package:moon_flutter/src/theme/opacity.dart';
+import 'package:moon_flutter/src/theme/shadows.dart';
+import 'package:moon_flutter/src/theme/switch/switch_size_properties.dart';
+import 'package:moon_flutter/src/theme/theme.dart';
+import 'package:moon_flutter/src/widgets/common/animated_icon_theme.dart';
+import 'package:moon_flutter/src/widgets/common/effects/focus_effect.dart';
 
 enum MoonSwitchSize {
   x2s,
